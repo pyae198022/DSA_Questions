@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pyae198022/DSA_Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pyae198022/DSA_Questions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/pyae198022/DSA_Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pyae198022/DSA_Questions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pyae198022/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/pyae198022/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pyae198022/DSA_Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/pyae198022/DSA_Questions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pyae198022/DSA_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pyae198022/DSA_Questions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pyae198022/DSA_Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pyae198022/DSA_Questions/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pyae198022/DSA_Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

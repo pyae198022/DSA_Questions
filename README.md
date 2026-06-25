@@ -112,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/pyae198022/DSA_Questions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/pyae198022/DSA_Questions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/pyae198022/DSA_Questions/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/pyae198022/DSA_Questions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
